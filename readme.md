@@ -49,6 +49,7 @@ $ python manage.py migrate
 ```sh
 $ python manage.py runserver
 ```
-Want to contribute? Great!
+Want to contribute? That's Great!
+
 
 ..
